@@ -1,3 +1,8 @@
+This is a fork of [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) with Mojang auth added back in.
+
+This repository is not maintained other than merging the changes from upstream.
+
+---
 
 <p align="center">
 <img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="20%"/>
